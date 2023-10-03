@@ -1,6 +1,6 @@
 @extends('layouts.app')   
 @section('content')
-<div id="box_wrapper">
+{{-- <div id="box_wrapper"> --}}
             <section class="page_title ls s-py-50 corner-title ls invise overflow-visible">
 				<div class="container">
 					<div class="row">
@@ -331,7 +331,7 @@
 				<!-- .marker -->
 
 			</section>
-</div>
+{{-- </div> --}}
 
 @endsection
 

@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section('content')
+<div class="header_absolute s-pb-30">
 			<span class="toggle_menu_side header-slide">
 				<span></span>
 			</span>
@@ -927,6 +928,7 @@
 				</div>
 				<div class="divider-10"></div>
 			</section>
+	</div>
 	
 @endsection
 

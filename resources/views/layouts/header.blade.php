@@ -1,4 +1,4 @@
-<div class="header_absolute s-pb-30">
+
 				<header class="page_header ds">
 					<div class="container-fluid">
 						<div class="row align-items-center">
@@ -602,4 +602,3 @@
 						<span></span>
 					</span>
 				</header>
-</div>
