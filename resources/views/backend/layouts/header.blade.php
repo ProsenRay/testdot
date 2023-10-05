@@ -132,6 +132,7 @@
           <i class="fas fa-th-large"></i>
         </a>
       </li>
+      <li><a href="{{route('logout')}}">logout</a></li>
     </ul>
   </nav>
   <!-- /.navbar -->

@@ -429,8 +429,8 @@
 										<!-- eof blog -->
 
 										<li>
-											<a href="contact.html">Contacts</a>
-											<ul>
+											<a href="{{route('login')}}">Login</a>
+											{{-- <ul>
 												<li>
 													<a href="contact.html">Contact 1</a>
 												</li>
@@ -443,13 +443,13 @@
 												<li>
 													<a href="contact4.html">Contact 4</a>
 												</li>
-											</ul>
+											</ul> --}}
 										</li>
 										<!-- eof contacts -->
 
 										<li>
-											<a href="#">Features</a>
-											<div class="mega-menu">
+											<a href="{{route('register')}}">Register</a>
+											{{-- <div class="mega-menu">
 												<ul class="mega-menu-row">
 													<li class="mega-menu-col">
 														<a href="#">Headers</a>
@@ -569,12 +569,13 @@
 													</li>
 
 												</ul>
-											</div>
+											</div> --}}
 											<!-- eof mega menu -->
 										</li>
 										<!-- eof features -->
 
 										<!-- contacts -->
+
 
 									</ul>
 
